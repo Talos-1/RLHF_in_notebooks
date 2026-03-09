@@ -1,1 +1,7 @@
 .ipynb_checkpoints/
+ppo_model_epoch_1.pt
+reward_model.pt
+sft_model_epoch_1.zip
+sft_model_epoch_1/model.safetensors
+sft_model_epoch_1/generation_config.json
+sft_model_epoch_1/config.json
